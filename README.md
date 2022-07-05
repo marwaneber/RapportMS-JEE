@@ -1,4 +1,10 @@
-# Rapport MS-JEE
+# Rapport MicroServices
+
+Réalisé par:
+Marwane BERIICH
+
+Encadré par:
+Professeur Mohamed YOUSSFI
 
 ## Introduction
 
@@ -113,3 +119,29 @@ Ainsi que d'ajouter des couches de sécurité au `Frontend` et `Backend` utiliso
 
 Je tiens de merci Mr. Youssfi pour cet formation qui m'a motivé de continuer mes autoformations dans ce sense là, et de réaliser plus des projets.
 
+
+### Liens de projet
+
+MS Gateway
+
+https://github.com/marwaneber/ms-gateway
+
+MS Customer Service
+
+https://github.com/marwaneber/ms-customer-service
+
+MS Billing Service
+
+https://github.com/marwaneber/ms-billing-service
+
+MS Eureka Discovery
+
+https://github.com/marwaneber/ms-eureka-discovery
+
+MS Inventory Service
+
+https://github.com/marwaneber/ms-inventory-service
+
+MB Dashboard
+
+https://github.com/marwaneber/mb-dashboard
